@@ -1,6 +1,9 @@
-# socket_whiteboard
+# Live Whiteboard
 
-A new Flutter project.
+<p>
+  <img src="vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="Flutter">
+</p>
+
 
 ## Getting Started
 
