@@ -1,7 +1,7 @@
 # Live Whiteboard
 
 <p>
-  <img src="vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="Flutter">
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg" alt="Flutter">
 </p>
 
 
